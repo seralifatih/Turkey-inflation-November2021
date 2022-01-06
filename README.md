@@ -1,14 +1,14 @@
-# Calculating Inflation Rate in Turkey with Official Data - November 2021
+# Calculating Inflation Rate in Turkey with Official Data 
 
 
-In this project, I calculated the November 2021 Inflation rate in Turkey based on the official. The inspiration for this project came from an EkşiSözlük [entry](https://eksisozluk.com/tuike-gore-enflasyonun-31-31-olmasi--7101397) questioning the accuracy of the official calculation. 
+In this project, I created some tools that can calculate inflation rate in Turkey between two different dates. It is also possible to create a line plot to demonstrate the monthly inflation changes. The inspiration for this project came from an EkşiSözlük [entry](https://eksisozluk.com/tuike-gore-enflasyonun-31-31-olmasi--7101397) questioning the accuracy of the official calculation. 
 
 
 ## Data source
 
-The data is directly taken from the website of Turkish Statistical Institute (TUIK). [Link](https://data.tuik.gov.tr/Bulten/Index?p=Consumer-Price-Index-November-2021-37389&dil=2) to the data. 
+The data is directly taken from the website of Turkish Statistical Institute (TUIK). [Link](https://data.tuik.gov.tr/Bulten/Index?p=Tuketici-Fiyat-Endeksi-Aralik-2021-45789) to the data. As of 6 January 2022, the latest data is available for December 2021. If you use this tool at a later date, make sure to download the Excel file from TUIK's website.
 ## Future of the project
-I don't consider this project to be finished at the moment. I'm planning to calculate monthly changes and add plots for easy reference. 
+This project has been improved from it's first commit but there are still many areas open for improvement.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
